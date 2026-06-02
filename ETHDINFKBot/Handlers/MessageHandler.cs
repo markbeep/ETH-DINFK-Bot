@@ -263,7 +263,7 @@ namespace ETHDINFKBot.Handlers
                             embedBuilder.WithDescription(@$"This is a status check of the VIS websites.
 VIS status website: https://mon.vis.ethz.ch/grafana
 Comsol status website: https://monitoring-lee.vis.ethz.ch/grafana/goto/mMeOZ9FSR?orgId=1
-External status site: https://up.markc.su/status/vis");
+External status site: https://up.rkma.dev/status/vis");
 
                             Dictionary<string, string> websites = new Dictionary<string, string>
                             {
